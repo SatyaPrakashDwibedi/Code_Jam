@@ -1,3 +1,4 @@
+#Code Jam 2016 qualifying round
 testcases=input()
 def group(s):
     temp=s[0]
